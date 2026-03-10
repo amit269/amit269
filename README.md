@@ -27,15 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit269&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit269&layout=compact&theme=tokyonight&hide_border=true)
-```
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-chouhan-b81529172/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chouhanamit650@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-chouhan-
