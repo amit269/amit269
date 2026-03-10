@@ -28,8 +28,10 @@
 ---
 
 ## 📊 GitHub Stats
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit269&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amit269&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amit269&layout=compact&theme=tokyonight&hide_border=true)
+```
 
 ---
 
